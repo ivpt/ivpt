@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**ivpt/ivpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ivpt/ivpt** is a ✨ _special_ ✨ repository because is the open source community will bring the IVPT in next level.
 
-Here are some ideas to get you started:
+Here are some ideas to get started:
 
 
 
