@@ -14,4 +14,4 @@ Here are some ideas to get started:
 Any other suggestions?
 
 
-I have idea to transfer or share this account to someone that manager the IT in IVPT.
+I have idea to transfer or share this account to someone that manage the IT in IVPT.
